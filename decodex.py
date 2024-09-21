@@ -20,7 +20,7 @@ channel_username = get_user_input("Your channel username: ")
 source_scrapper_1 = get_user_input("Please Provide Source Scrapper 1 (Telegram channel link): ")
 source_scrapper_2 = get_user_input("Great! Now Give Source Scrapper no 2 (Telegram channel link): ")
 destination_channel_id = get_user_input("Provide Your Channel 'ID' where Cards Will Be Sent (e.g., -111111111111): ")
-developer_name = "@unsack @bwmethood"
+developer_name = "@NoxBots"
 file_name = f'{developer_name}.txt'
 
 if not os.path.exists(file_name):
@@ -107,7 +107,7 @@ with client:
 ♤ Bin  : {bin_prefix} xxxxxxxxxxx
 ♤ Country : {country}
 ♤ 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞: 1000: Approved ✅
-♤ VBV : <a href="https://t.me/Bwmethood/574">BUY PREMIUM SCRAPPER 👈👈</a>
+♤ VBV : <a href="https://t.me/+N74gtlbETCE5YzI1">DEV CHANNEL 👈👈</a>
 ━━━━━━━━━━━━━━━━
 𝐒𝐜𝐫𝐚𝐩𝐩𝐞𝐫 𝐁𝐲 {channel_username}
 Developer- {developer_name}"""
